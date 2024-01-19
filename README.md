@@ -36,7 +36,11 @@ Tweaks Raríssimas ou SuperPopulares Convertidas para o novo Bootstrap Jailbreak
 
 <p4>16ª) CrackTool5: Permite hackear algumas funções pagas de algumas tweaks do jailbreak e consegui-las de graça</p4>
 
-<p4>17ª) iAPStore: Permite adquirir funções pagas ou VIP de vários aplicativos/jogos originais da appstore de forma totalmente gratuita, mas nem todos aplicativos ou jogos darão certo. Para tentar obter basta clicar na opção de comprar a vantagem dentro do aplicativo e depois clicar no botão "cancelar" na janela de confirmação de pagamento que vai surgir na tela do seu aparelho</p4>
+<p4>17ª) iAPStore: Permite adquirir funções pagas ou VIP de vários aplicativos/jogos originais da appstore de forma totalmente gratuita, mas nem todos aplicativos ou jogos darão certo. Para tentar obter basta clicar na opção de comprar a vantagem dentro do aplicativo e depois clicar no botão "cancelar" na janela de confirmação de pagamento que vai surgir na tela do seu aparelho. É necessário habilitar os aplicativos nos ajustes do seu aparelho</p4>
+
+<p4>18ª) System info: Permite o mostruário de mais informações ocultas sobre o seu aparelho. Basta abrir seu aplicativo "Ajustes" e ir em "Geral" e em "Sobre"</p4>
+
+<p4>19ª) SSL Kill Switcher 3: Anti-Revoke de certificados de aplicativos Sideloading no seu aparelho. Depois de instalada a tweak você conseguirá abrir e instalar qualquer aplicativo já revogado ou em blacklist no seu aparelho, mesmo que seu certificado já esteja revogado</p4>
 
 
 

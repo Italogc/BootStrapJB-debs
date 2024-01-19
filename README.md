@@ -2,6 +2,8 @@
 Tweaks Raríssimas ou SuperPopulares Convertidas para o novo Bootstrap Jailbreak
 
 <p3>Tweaks Contidas: </p3>
+
+
 <p4>1ª) iPhoneOS-arm: A tweak mais rara de todas, e que não acha em lugar nenhum da internet, é do repositório Hephaestus Ironside, chamada "iPhoneos-arm", que sua principal função é de dar fix em todos repositórios vazios (ou bugados) descritos como "repo sem titulo" e mostrar toda sua lista de tweaks contidas dentro de cada repositório. Essa tweak é raríssima, pois o seu repositório oficial foi banido a mando da própria apple e, se eu não tivesse feito o backup do deb original na época, hoje eu não teria essa relíquia para converter em "arm64e" para redisponibilizar novamente para a comunidade do ios. </p4>
 
 <p4>2ª) Flex3 Beta: O queridinho dos quibadores do iOS, tweak responsável por baixar, editar ou criar mods em tudo no seu aparelho, basta somente saber o que baixar ou criar</p4>
@@ -30,6 +32,11 @@ Tweaks Raríssimas ou SuperPopulares Convertidas para o novo Bootstrap Jailbreak
 
 <p4>14ª) Saily: Uma das 5 lojas existentes do Jailbreak (Cydia, Sileo, Zebra, Installer5 e Saily) e sua vantagem em comparação aos seus 4 concorrentes é a função de fazer download dos seus debs favoritos sem a necessidade de instalar a tweak desses debs no seu aparelho</p4>
 
+<p4>15ª) SnowBoard: Permite trocar Temas/Skins dos ícones dos seus aplicativos no aparelho</p4>
+
+<p4>16ª) CrackTool5: Permite hackear algumas funções pagas de algumas tweaks do jailbreak e consegui-las de graça</p4>
+
+<p4>17ª) iAPStore: Permite adquirir funções pagas ou VIP de vários aplicativos/jogos originais da appstore de forma totalmente gratuita, mas nem todos aplicativos ou jogos darão certo. Para tentar obter basta clicar na opção de comprar a vantagem dentro do aplicativo e depois clicar no botão "cancelar" na janela de confirmação de pagamento que vai surgir na tela do seu aparelho</p4>
 
 
 

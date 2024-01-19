@@ -16,7 +16,19 @@ Tweaks Raríssimas ou SuperPopulares Convertidas para o novo Bootstrap Jailbreak
 
 <p4>7ª) Xinamine e X1namine Patcher: Devem ser instaladas uma em seguida da outra. Sua função é de converter tweaks antigas de 32bits [debs com o final "iphoneos-arm.deb"] em tweaks mais recentes de 64bits [debs com o final "iphoneos-arm64.deb"], muito útil para converter tweaks antigas de 32bits para 64bits e em seguidas serem transformadas em 64bits-E do novo Bootstrap Patcher [debs com o final "iphoneos-arm64e.deb]. Para isso você precisará salvar os debs dentro do "Filza File Manager 64Bits" e em seguida mandar abrir cada deb pelo script "Xinamine Patcher"</p4>
 
+<p4>8ª) Eneko: Video Wallpaper nas telas de bloqueio e inicial do seu aparelho</p4>
 
+<p4>9ª) Stella: Faz nevar nas telas de início e bloqueio do seu aparelho</p4>
+
+<p4>10ª) DLG Memorinjected: Hacker modificador de quantidades númericas dentro dos seus jogos instalados no seu aparelho. Necessita ir nos ajustes do aparelho e marcar a chave nos jogos que você desejar, apenas jogos que funcionam com servidor offline que terão êxito</p4>
+
+<p4>11ª) LibGCUniversal: Dependência Imprescindível para a instalação de várias outras tweaks do jailbreak</p4>
+
+<p4>12ª) Mobile Terminal: Terminal Prompt de Comando do seu jailbreak. É fundamental ter ele pra evitar e corrigir muitos problemas que podem gerar futuramente no seu jailbreak. Essa tweak pode salvar sua vida!</p4>
+
+<p4>13ª) Cylinder: Aplica 56 efeitos diferentes nos ícones dos seus aplicativos na tela inicial quando você arrasta para direita ou para esquerda</p4>
+
+<p4>14ª) Saily: Uma das 5 lojas existentes do Jailbreak (Cydia, Sileo, Zebra, Installer5 e Saily) e sua vantagem em comparação aos seus 4 concorrentes é a função de fazer download dos seus debs favoritos sem a necessidade de instalar a tweak desses debs no seu aparelho</p4>
 
 
 

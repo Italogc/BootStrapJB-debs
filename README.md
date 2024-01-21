@@ -42,6 +42,8 @@ Tweaks Raríssimas ou SuperPopulares Convertidas para o novo Bootstrap Jailbreak
 
 <p4>19ª) SSL Kill Switcher 3: Anti-Revoke de certificados de aplicativos Sideloading no seu aparelho. Depois de instalada a tweak você conseguirá abrir e instalar qualquer aplicativo já revogado ou em blacklist no seu aparelho, mesmo que seu certificado já esteja revogado</p4>
 
+<p4>20ª) X1namine (All in One) 2.4-9: Adiciona todos patches de scripts no seu "Filza File Manager 64bits" para a conversão perfeita de debs de 32bits para 64bits, para posteriormente poder serem convertidas em 64bits-e pelo "bootstrap patcher converter". Deixo também os patchs em anexo como zip para instalação manual, para isso extraia o zip no seu filza, copie todos os arquivos dentro da pasta "filza scripts" e cole dentro do diretório "Scripts" do seu filza oficial, em seguida dê respring no aparelho e os scripts já estarão funcionando e convertendo perfeitamente</p4>
+
 
 
 
